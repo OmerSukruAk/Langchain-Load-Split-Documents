@@ -1,0 +1,10 @@
+INFO:Loading PDF file...
+CRITICAL:PDF loaded successfully.
+INFO:page_content='See discussions, st ats, and author pr ofiles f or this public ation at : https://www .researchgate.ne t/public ation/379784357 Human Activity Recognition Using Machine Learning Article  · June 2023 CITATIONS 0READS 25 4 author s, including: Ömer Þ ükrü Akbulut Dok uz Eylul Univ ersity 1 PUBLICA TION    0 CITATIONS     SEE PROFILE Derya Bir ant Dok uz Eylul Univ ersity 134 PUBLICA TIONS    2,867  CITATIONS     SEE PROFILE All c ontent f ollo wing this p age was uplo aded b y Ömer Þ ükrü Akbulut  on 13 April 2024. The user has r equest ed enhanc ement of the do wnlo aded file.' metadata={'source': 'Human Activity Recognition.pdf', 'page': 0}
+INFO:Splitting text into chunks (Character Text Splitter)...
+INFO:Splitting text into documents...
+CRITICAL:Text split into 625 documents.
+INFO:page_content='See discussions, st ats, and author pr ofiles f or this public ation at : https://www .researchgate.ne t/public ation/379784357' metadata={'source': 'Human Activity Recognition.pdf', 'page': 0}
+INFO:Splitting text into chunks... (Token Text Splitter)
+CRITICAL:Text split into 811 chunks.
+INFO:page_content='See discussions, st ats, and author pr ofiles f or this public ation at : https://www .researchgate.ne t/' metadata={'source': 'Human Activity Recognition.pdf', 'page': 0}
